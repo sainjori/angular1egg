@@ -1,0 +1,23 @@
+{
+  "name": "egghead-angularjs-eggly-architecture",
+  "version": "1.0.0",
+  "description": "eggly\r =====",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eggheadio/egghead-angularjs-eggly-architecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eggheadio/egghead-angularjs-eggly-architecture/issues"
+  },
+  "homepage": "https://github.com/eggheadio/egghead-angularjs-eggly-architecture#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
